@@ -6,7 +6,7 @@ Programming Language ===> Python
 
 Program description ===> 15th Exercise
 
-Example ===> Write a program that checks whether the name key is in the above dictionary or not
+Example ===> Write A Program that checks whether the name key is in the above dictionary or not
 
 A => info = {'name’:'moein', 'age':19}
 
